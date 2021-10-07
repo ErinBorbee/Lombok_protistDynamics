@@ -12,3 +12,6 @@ Figure 2 graphs were plotted in R and rubble heatmap was placed between two rows
 ### Figure 4
 Figure 4 was plotted in R and minor edits to text were made later in Adobe Illustrator for the final publication figure
 
+### Figure 5
+Figure 5 was constructed using co-occurrence network data from the WGCNA package in R. The output from those networks were used to construct each graph used in the figure. Figure 5a and 5b were cnostructed using the circos program and colors of links were adjusted in Adobe Illustrator using the svg output files from the script. Figure 5c was constructed in R and exported as a PDF. Colors for figure 5c were adjusted in Adobe Illustrator and bars were scaled to match the number of edges in the network for each taxonomic group. The figures were then arranged in Illustrator to form the final publication figure.
+
