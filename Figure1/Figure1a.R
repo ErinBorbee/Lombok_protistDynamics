@@ -20,6 +20,7 @@ plot(Indo, col = "grey57", border = NA, bg = "white", axes=T, xlim = c(115.5,117
 points(LBK_points$long, LBK_points$lat, pch = 21, col = "white", bg = "black", cex = 3, lwd = 1)
 LBK_map <- recordPlot()
 
+#Plot Indonesia map for inset
 #Load country shapfiles (level zero is country level, subsequent levels are states, provinces, etc. depending on the level of detail you need)
 Indo <- getData('GADM', country ='IDN', level = 0)
 Malay <- getData('GADM', country = 'MYS', level = 0)
