@@ -4,7 +4,7 @@
 Data and scripts used to construct figures for third chapter of dissertation
 
 ### QIIME2
-Initial data processing was done using QIIME2 v2020.6, and the workflow we used is provided in the jupyter notebook file in the repository titled QIIME2_scripts.
+Initial data processing was done using QIIME2 v2020.6, and the workflow we used is provided in the jupyter notebook file (MetabarcodingDataAnalysis.ipynb) in the repository titled QIIME2_scripts.
 
 ### Figure 1
 Figures 1a and 1b were plotted separately in R and arranged in Adobe Illustrator to label sites for final publication figure
