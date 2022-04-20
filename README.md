@@ -1,5 +1,6 @@
 
 # Rubble fields shape planktonic protist communities in Indonesia on a local geographic scale
+###Erin M. Borbee, Inna Puspa Ayu, Paul Carvalho, Ester Restiana, Fahkrizal Setiawan, Beginer Subhan, Austin T. Humphries, Hawis Maduppa, & Christopher E. Lane
 
 Data and scripts used to construct figures for third chapter of dissertation
 
