@@ -2,7 +2,7 @@
 # Rubble fields shape planktonic protist communities in Indonesia on a local geographic scale
 ### Erin M. Borbee, Inna Puspa Ayu, Paul Carvalho, Ester Restiana, Fahkrizal Setiawan, Beginer Subhan, Austin T. Humphries, Hawis Maduppa, & Christopher E. Lane
 
-Data and scripts used to construct figures for third chapter of dissertation
+Data and scripts used to construct figures for manuscript on Lombok protist community dynamics
 
 ### QIIME2
 Initial data processing was done using QIIME2 v2020.6, and the workflow we used is provided in the jupyter notebook file (MetabarcodingDataAnalysis.ipynb) in the repository titled QIIME2_scripts.
